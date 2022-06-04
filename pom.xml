@@ -5,7 +5,7 @@
   <artifactId>got-gutch-functions</artifactId>
   <packaging>jar</packaging>
   <version>0.1.0-SNAPSHOT</version>
-  <name>nlp-functions</name>
+  <name>got-gutch-functions</name>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
